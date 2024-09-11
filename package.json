@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.17.1",
+    "@wppconnect-team/wppconnect": "https://github.com/wppconnect-team/wppconnect/releases/download/nightly/wppconnect-nightly.tgz",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start-whatsapp": "node scripts/whatsappBooking.js"
+  }
+}
