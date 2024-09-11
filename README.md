@@ -22,7 +22,8 @@ A multilingual WhatsApp chatbot designed to simplify the ticket booking process,
 - **Backend**: 
   - Node.js
   - Python
-- **Database**: MongoDB (for storing user state and ticketing information)
+- **Database**:
+  - MongoDB (for storing user state and ticketing information)
 - **API Services**: 
   - Google Generative AI (Gemini API) for AI-based responses
   - WppConnect (WhatsApp messaging framework)
@@ -35,8 +36,11 @@ A multilingual WhatsApp chatbot designed to simplify the ticket booking process,
    ```bash
    git clone https://github.com/yourusername/whatsapp-chatbot-ticketing-system.git
 2. Install the necessary dependencies:
+   ```bash
    npm install
 3. Set up environment variables by creating a .env file in the root directory:
+  ```bash
    GOOGLE_API_KEY=your_google_api_key_here
 4. Start the chatbot:
+  ```bash
    npm start
