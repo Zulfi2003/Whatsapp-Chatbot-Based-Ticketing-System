@@ -17,6 +17,12 @@ A multilingual WhatsApp chatbot designed to simplify the ticket booking process,
 3. **Customer Support**: Users can ask any questions, and the chatbot responds using AI from Google Generative API. The chatbot also handles requests to exit the conversation loop.
 4. **Multilingual Responses**: The system is capable of responding in both English and Hindi, based on the user's selected language.
 
+## System Flow Diagram 🖼️
+
+Here’s a high-level overview of the system flow for the WhatsApp Chatbot-Based Ticketing System:
+
+![System Flow](https://github.com/yourusername/whatsapp-chatbot-ticketing-system/raw/master/images/system_flow.png)
+
 ## Tech Stack 🛠️
 
 - **Backend**: 
