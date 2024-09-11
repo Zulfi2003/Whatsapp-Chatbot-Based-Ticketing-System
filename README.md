@@ -21,7 +21,7 @@ A multilingual WhatsApp chatbot designed to simplify the ticket booking process,
 
 Here’s a high-level overview of the system flow for the WhatsApp Chatbot-Based Ticketing System:
 
-![System Flow](https://github.com/yourusername/whatsapp-chatbot-ticketing-system/raw/master/images/system_flow.png)
+![System Flow](https://github.com/bpranav83/Whatsapp-Chatbot-Based-Ticketing-System/blob/main/scripts/opns-Page-4.drawio.png)
 
 ## Tech Stack 🛠️
 
