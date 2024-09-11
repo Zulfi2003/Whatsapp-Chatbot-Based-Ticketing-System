@@ -39,8 +39,10 @@ A multilingual WhatsApp chatbot designed to simplify the ticket booking process,
    ```bash
    npm install
 3. Set up environment variables by creating a .env file in the root directory:
-  ```bash
+     ```bash
    GOOGLE_API_KEY=your_google_api_key_here
 4. Start the chatbot:
   ```bash
    npm start
+
+
