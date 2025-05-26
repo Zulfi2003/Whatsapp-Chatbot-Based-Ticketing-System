@@ -47,7 +47,7 @@ Here’s a high-level overview of the system flow for the WhatsApp Chatbot-Based
      ```bash
    GOOGLE_API_KEY=your_google_api_key_here
 4. Start the chatbot:
-  ```bash
+      ```bash
    npm start
 
 
