@@ -27,7 +27,6 @@ Here’s a high-level overview of the system flow for the WhatsApp Chatbot-Based
 
 - **Backend**: 
   - Node.js
-  - Python
 - **Database**:
   - MongoDB (for storing user state and ticketing information)
 - **API Services**: 
